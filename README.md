@@ -14,26 +14,6 @@ git clone https://github.com/JoseBaltazar/PokeAPI_Test.git
 cd PokeAPI_Test
 ```
 
-2. Instala las dependencias:
-```bash
-npm install
-```
-
-## Uso
-
-Para iniciar la aplicación:
-
-```bash
-npm start
-```
-
-## Tecnologías utilizadas
-
-- Node.js
-- TypeScript
-- Axios para las peticiones HTTP
-- PokeAPI
-
 ## Contribuir
 
 Las contribuciones son bienvenidas. Por favor, abre un issue primero para discutir los cambios que te gustaría realizar.
