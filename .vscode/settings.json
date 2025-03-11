@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "PokeAPI_Test.sln"
+    "dotnet.defaultSolution": "PokeAPI_Demo.sln"
 }
